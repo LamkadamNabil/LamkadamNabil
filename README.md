@@ -4,6 +4,11 @@
 
 <div align="center">
   <a href="https://github.com/LamkadamNabil">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamkadamNabil)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LamkadamNabil&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LamkadamNabil)  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
