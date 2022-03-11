@@ -21,25 +21,14 @@
   
   ##
  
-<divstyle="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <a href = "mailto:na.lamkadam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nabil-lamkadam-12b34b202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LamkadamNabil)  
+  <a href="https://www.linkedin.com/in/nabil-lamkadam-12b34b202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamkadamNabil)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LamkadamNabil)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamkadamNabil)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LamkadamNabil&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LamkadamNabil)  
-
-![GitHub metrics](https://metrics.lecoq.io/LamkadamNabil)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LamkadamNabil&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LamkadamNabil)  
-
-![Profile views](https://gpvc.arturio.dev/LamkadamNabil)  
   </div> 
 - 🔭 I’m currently working on this page. 
 
