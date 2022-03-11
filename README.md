@@ -4,9 +4,6 @@
 
 <div align="center">
   <a href="https://github.com/LamkadamNabil">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LamkadamNabil&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LamkadamNabil)  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,11 +21,7 @@
 <div style="display: inline_block"><br>
   <a href = "mailto:na.lamkadam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nabil-lamkadam-12b34b202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamkadamNabil)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LamkadamNabil&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LamkadamNabil)  
   </div> 
 - 🔭 I’m currently working on this page. 
 
