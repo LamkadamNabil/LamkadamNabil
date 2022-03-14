@@ -24,6 +24,11 @@
 
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LamkadamNabil&&theme=xcode)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LamkadamNabil&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/LamkadamNabil)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LamkadamNabil)  
 
   
   ##
