@@ -1,5 +1,4 @@
-### Hi there 👋, Nabil Lamkadam
-#### Software Engineering Student 💻👨‍💻( React.js Node, Express , MongoDB & Java , Spring Boot ), I Live To Build Things And I Build Things For A Living 🚀 .
+
 [![MasterHead](https://raw.githubusercontent.com/LamkadamNabil/LamkadamNabil/main/Bleu%20Formes%20Expressives%20Action%20Aventure%20Facebook%20Couverture.gif)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">Software Engineering Student 💻👨‍💻( React.js Node, Express , MongoDB & Java , Spring Boot ), I Live To Build Things And I Build Things For A Living 🚀 .</h3>
