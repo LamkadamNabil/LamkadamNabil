@@ -6,12 +6,9 @@
   <a href="https://github.com/LamkadamNabil">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LamkadamNabil)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LamkadamNabil&show_icons=true)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LamkadamNabil)  
-    (https://github.com/anuraghazra/github-readme-stats)
-    ![GitHub metrics](https://metrics.lecoq.io/LamkadamNabil)  
+ ![GitHub metrics](https://metrics.lecoq.io/LamkadamNabil)  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
