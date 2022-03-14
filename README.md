@@ -10,7 +10,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LamkadamNabil&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LamkadamNabil)  
-    
+    (https://github.com/anuraghazra/github-readme-stats)
     ![GitHub metrics](https://metrics.lecoq.io/LamkadamNabil)  
 </div>
 <div style="display: inline_block"><br>
