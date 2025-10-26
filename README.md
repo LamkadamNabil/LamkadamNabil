@@ -1,41 +1,74 @@
+<h1 align="center">👋 Hi, I'm Nabil Lamkadam</h1>
+<h3 align="center">Full Stack JavaScript Engineer | React ⚛️ • Node.js 🚀 • TypeScript 🟦 • DevOps 🧩</h3>
 
-![MasterHead](https://raw.githubusercontent.com/LamkadamNabil/LamkadamNabil/main/Bleu%20Formes%20Expressives%20Action%20Aventure%20Facebook%20Couverture.gif)
-<h1 align="center">Hi 👋, I'm Nabil Lamkadam</h1>
-<h3 align="center">Software Engineering Student 💻👨‍💻( React.js Node, Express , MongoDB & Java , Spring Boot ), I Live To Build Things And I Build Things For A Living 🚀 .</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LamkadamNabil&label=Profile%20views&color=0e75b6&style=flat" alt="Nabil Lamkadam" /> </p>
-
-- 🔭 I’m currently working on **Flutter App and Nestjs **
-
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **JavaScript , MERN ,React**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href = "mailto:na.lamkadam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nabil-lamkadam-12b34b202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LamkadamNabil&label=Profile%20views&color=blueviolet&style=flat-square" alt="Nabil Lamkadam" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a></p>
+---
 
+### 💡 About Me
+I'm a passionate **Software Engineer** specialized in **Full-Stack JavaScript development**, building modern, performant and scalable applications.  
+I love turning ideas into digital solutions using **React.js**, **Node.js**, and **TypeScript**, while exploring **Cloud** and **DevOps** practices to deliver production-ready systems.
 
+- 💼 Currently working as **Full-Stack Engineer at Publicis Global Delivery (PGD)**
+- ⚙️ Working daily with: `React`, `Node.js`, `NestJS`, `Docker`, `GitLab CI/CD`, `AWS`
+- 🌱 Learning more about **Cloud architecture & AI-driven systems**
+- 💬 Ask me about **React, Redux, TypeScript, Prisma, Express, or scalable API design**
+- ⚡ Fun fact: I love teaching & mentoring — I’m also a **trainer at YouCode** 👨‍🏫
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LamkadamNabil&&theme=xcode)  
+---
 
+### 🧰 Tech Stack
+#### 💻 Front-End
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
+#### ⚙️ Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+#### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/LamkadamNabil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LamkadamNabil&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamkadamNabil&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LamkadamNabil&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamkadamNabil&layout=compact&theme=tokyonight" />
 </div>
-  ##
- 
 
+---
 
+### 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:na.lamkadam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nabil-lamkadam-12b34b202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/LamkadamNabil"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
+---
 
+### 🌍 Languages
+- 🇲🇦 Arabic: Native  
+- 🇫🇷 French: Fluent  
+- 🇬🇧 English: Technical  
+
+---
+
+### 💬 Quote
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
